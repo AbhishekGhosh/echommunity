@@ -132,6 +132,16 @@
             "user_id": "U0B47KC3S"
         }, 
         {
+            "mentioned_user_id": "U3GHS132Q", 
+            "ts": "1485206895.000379", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U38HVMZ6K", 
+            "ts": "1485378042.000397", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
             "mentioned_user_id": "U04DFTZ7D", 
             "ts": "1482154168.000023", 
             "user_id": "U3GHS132Q"
@@ -422,6 +432,16 @@
             "mentioned_user_id": "U0AAL4W13", 
             "ts": "1485018697.000376", 
             "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U3PLYAJPJ", 
+            "ts": "1485374014.000395", 
+            "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1485374014.000395", 
+            "user_id": "U38HVMZ6K"
         }
     ], 
     "users": [
@@ -472,6 +492,7 @@
         "U2X419KJS", 
         "U24BZF8UR", 
         "U2UU194RZ", 
+        "U3WRNP30B", 
         "U38HVMZ6K", 
         "U2NAWHM9N", 
         "U32V2JWFJ", 
@@ -593,18 +614,18 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "14", 
+                "posts": "16", 
                 "software": "0"
             }
         }, 
         {
             "U0B47KC3S": {
-                "community": "0", 
+                "community": "1", 
                 "design": "3", 
-                "hardware": "0", 
+                "hardware": "2", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "51", 
+                "posts": "54", 
                 "software": "0"
             }
         }, 
@@ -755,11 +776,22 @@
             "U3GHS132Q": {
                 "community": "3", 
                 "design": "5", 
-                "hardware": "16", 
+                "hardware": "18", 
                 "legal": "2", 
                 "medical": "0", 
-                "posts": "71", 
+                "posts": "73", 
                 "software": "10"
+            }
+        }, 
+        {
+            "U3V5J2BEZ": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "0", 
+                "software": "0"
             }
         }, 
         {
@@ -857,7 +889,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "3", 
+                "posts": "5", 
                 "software": "0"
             }
         }, 
@@ -1019,10 +1051,10 @@
             "U0AAL4W13": {
                 "community": "2", 
                 "design": "4", 
-                "hardware": "11", 
+                "hardware": "14", 
                 "legal": "6", 
                 "medical": "3", 
-                "posts": "42", 
+                "posts": "48", 
                 "software": "1"
             }
         }, 
@@ -1082,6 +1114,17 @@
             }
         }, 
         {
+            "U3WNEB55H": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
             "U3T7KBEMV": {
                 "community": "0", 
                 "design": "0", 
@@ -1107,10 +1150,10 @@
             "U3PLYAJPJ": {
                 "community": "0", 
                 "design": "1", 
-                "hardware": "6", 
+                "hardware": "7", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "10", 
+                "posts": "11", 
                 "software": "1"
             }
         }, 
@@ -1412,14 +1455,25 @@
             }
         }, 
         {
+            "U3WRNP30B": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
+                "software": "0"
+            }
+        }, 
+        {
             "U38HVMZ6K": {
-                "community": "11", 
-                "design": "15", 
-                "hardware": "53", 
+                "community": "18", 
+                "design": "20", 
+                "hardware": "93", 
                 "legal": "8", 
                 "medical": "0", 
-                "posts": "124", 
-                "software": "8"
+                "posts": "154", 
+                "software": "12"
             }
         }, 
         {
