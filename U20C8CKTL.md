@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __hackolite__ (_@U20C8CKTL_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 226
+Number of posts: 235
 
 ### Topics:
 
-* __posts__: 226 posts
+* __posts__: 235 posts
 * __software__: 20 posts
 * __community__: 9 posts
 * __hardware__: 7 posts
@@ -27,6 +27,7 @@ Number of posts: 226
 * [@nicolasloubet](./U04H8570R.md): 2 mention and/or reactions
 * [@soobash](./U1PAGSKGU.md): 1 mention and/or reactions
 * [@aurelie](./U37GZRZU6.md): 1 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 1 mention and/or reactions
 * [@medmahdi](./U36QEPF51.md): 1 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 1 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 1 mention and/or reactions

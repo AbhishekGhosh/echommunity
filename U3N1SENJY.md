@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __jos__ (_@U3N1SENJY_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 32
+Number of posts: 33
 
 ### Topics:
 
-* __posts__: 32 posts
+* __posts__: 33 posts
 * __legal__: 1 posts
 * __community__: 1 posts
 

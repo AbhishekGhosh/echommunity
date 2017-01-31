@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __eiffel__ (_@U3GHS132Q_)
 
@@ -9,12 +9,12 @@
 
 ### Posts: 
 
-Number of posts: 117
+Number of posts: 119
 
 ### Topics:
 
-* __posts__: 117 posts
-* __hardware__: 17 posts
+* __posts__: 119 posts
+* __hardware__: 19 posts
 * __software__: 11 posts
 * __design__: 5 posts
 * __legal__: 3 posts

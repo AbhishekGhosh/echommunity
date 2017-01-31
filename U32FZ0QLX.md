@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __victor_arias__ (_@U32FZ0QLX_)
 
@@ -18,6 +18,7 @@ Number of posts: 65
 * __software__: 1 posts
 * __design__: 1 posts
 * __community__: 1 posts
+* __medical__: 1 posts
 
 ## Key interactions 
 

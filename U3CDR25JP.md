@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __ivan.l__ (_@U3CDR25JP_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 78
+Number of posts: 79
 
 ### Topics:
 
-* __posts__: 78 posts
+* __posts__: 79 posts
 * __medical__: 16 posts
 * __software__: 7 posts
 * __community__: 1 posts
